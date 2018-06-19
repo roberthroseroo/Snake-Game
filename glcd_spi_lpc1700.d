@@ -1,0 +1,13 @@
+.\glcd_spi_lpc1700.o: GLCD_SPI_LPC1700.c
+.\glcd_spi_lpc1700.o: C:\Keil_P\ARM\PACK\Keil\LPC1700_DFP\2.4.0\Device\Include\lpc17xx.h
+.\glcd_spi_lpc1700.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h
+.\glcd_spi_lpc1700.o: C:\Keil_P\ARM\ARMCC\Bin\..\include\stdint.h
+.\glcd_spi_lpc1700.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h
+.\glcd_spi_lpc1700.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h
+.\glcd_spi_lpc1700.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h
+.\glcd_spi_lpc1700.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h
+.\glcd_spi_lpc1700.o: C:\Keil_P\ARM\PACK\Keil\LPC1700_DFP\2.4.0\Device\Include\system_LPC17xx.h
+.\glcd_spi_lpc1700.o: GLCD.h
+.\glcd_spi_lpc1700.o: Font_6x8_h.h
+.\glcd_spi_lpc1700.o: Font_16x24_h.h
+.\glcd_spi_lpc1700.o: movement/movement.h

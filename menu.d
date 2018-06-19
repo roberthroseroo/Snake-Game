@@ -1,0 +1,15 @@
+.\menu.o: menu\menu.c
+.\menu.o: C:\Keil_P\ARM\ARMCC\Bin\..\include\stdio.h
+.\menu.o: C:\Keil_P\ARM\ARMCC\Bin\..\include\stdlib.h
+.\menu.o: C:\Keil_P\ARM\PACK\Keil\LPC1700_DFP\2.4.0\Device\Include\lpc17xx.h
+.\menu.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h
+.\menu.o: C:\Keil_P\ARM\ARMCC\Bin\..\include\stdint.h
+.\menu.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h
+.\menu.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h
+.\menu.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h
+.\menu.o: C:\Keil_P\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h
+.\menu.o: C:\Keil_P\ARM\PACK\Keil\LPC1700_DFP\2.4.0\Device\Include\system_LPC17xx.h
+.\menu.o: menu\../GLCD.h
+.\menu.o: menu\../button_EXINT/button.h
+.\menu.o: menu\../Joystick/joystick.h
+.\menu.o: menu\../movement/movement.h
